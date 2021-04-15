@@ -1,0 +1,17 @@
+C:\Users\Junior\source\repos\BaseProject\TST.REPOSITORY\bin\Debug\netcoreapp3.1\TST.REPOSITORY.deps.json
+C:\Users\Junior\source\repos\BaseProject\TST.REPOSITORY\bin\Debug\netcoreapp3.1\TST.REPOSITORY.runtimeconfig.json
+C:\Users\Junior\source\repos\BaseProject\TST.REPOSITORY\bin\Debug\netcoreapp3.1\TST.REPOSITORY.runtimeconfig.dev.json
+C:\Users\Junior\source\repos\BaseProject\TST.REPOSITORY\bin\Debug\netcoreapp3.1\TST.REPOSITORY.dll
+C:\Users\Junior\source\repos\BaseProject\TST.REPOSITORY\bin\Debug\netcoreapp3.1\TST.REPOSITORY.pdb
+C:\Users\Junior\source\repos\BaseProject\TST.REPOSITORY\bin\Debug\netcoreapp3.1\TST.CORE.dll
+C:\Users\Junior\source\repos\BaseProject\TST.REPOSITORY\bin\Debug\netcoreapp3.1\TST.ENTITIES.dll
+C:\Users\Junior\source\repos\BaseProject\TST.REPOSITORY\bin\Debug\netcoreapp3.1\TST.CORE.pdb
+C:\Users\Junior\source\repos\BaseProject\TST.REPOSITORY\bin\Debug\netcoreapp3.1\TST.ENTITIES.pdb
+C:\Users\Junior\source\repos\BaseProject\TST.REPOSITORY\obj\Debug\netcoreapp3.1\TST.REPOSITORY.csprojAssemblyReference.cache
+C:\Users\Junior\source\repos\BaseProject\TST.REPOSITORY\obj\Debug\netcoreapp3.1\TST.REPOSITORY.AssemblyInfoInputs.cache
+C:\Users\Junior\source\repos\BaseProject\TST.REPOSITORY\obj\Debug\netcoreapp3.1\TST.REPOSITORY.AssemblyInfo.cs
+C:\Users\Junior\source\repos\BaseProject\TST.REPOSITORY\obj\Debug\netcoreapp3.1\TST.REPOSITORY.csproj.CoreCompileInputs.cache
+C:\Users\Junior\source\repos\BaseProject\TST.REPOSITORY\obj\Debug\netcoreapp3.1\TST.REPOSITORY.csproj.CopyComplete
+C:\Users\Junior\source\repos\BaseProject\TST.REPOSITORY\obj\Debug\netcoreapp3.1\TST.REPOSITORY.dll
+C:\Users\Junior\source\repos\BaseProject\TST.REPOSITORY\obj\Debug\netcoreapp3.1\TST.REPOSITORY.pdb
+C:\Users\Junior\source\repos\BaseProject\TST.REPOSITORY\obj\Debug\netcoreapp3.1\TST.REPOSITORY.genruntimeconfig.cache

@@ -1,0 +1,9 @@
+C:\Users\Junior\source\repos\BaseProject\TST.SERVICE\bin\Debug\netcoreapp3.1\TST.SERVICE.deps.json
+C:\Users\Junior\source\repos\BaseProject\TST.SERVICE\bin\Debug\netcoreapp3.1\TST.SERVICE.dll
+C:\Users\Junior\source\repos\BaseProject\TST.SERVICE\bin\Debug\netcoreapp3.1\TST.SERVICE.pdb
+C:\Users\Junior\source\repos\BaseProject\TST.SERVICE\obj\Debug\netcoreapp3.1\TST.SERVICE.csprojAssemblyReference.cache
+C:\Users\Junior\source\repos\BaseProject\TST.SERVICE\obj\Debug\netcoreapp3.1\TST.SERVICE.AssemblyInfoInputs.cache
+C:\Users\Junior\source\repos\BaseProject\TST.SERVICE\obj\Debug\netcoreapp3.1\TST.SERVICE.AssemblyInfo.cs
+C:\Users\Junior\source\repos\BaseProject\TST.SERVICE\obj\Debug\netcoreapp3.1\TST.SERVICE.csproj.CoreCompileInputs.cache
+C:\Users\Junior\source\repos\BaseProject\TST.SERVICE\obj\Debug\netcoreapp3.1\TST.SERVICE.dll
+C:\Users\Junior\source\repos\BaseProject\TST.SERVICE\obj\Debug\netcoreapp3.1\TST.SERVICE.pdb
