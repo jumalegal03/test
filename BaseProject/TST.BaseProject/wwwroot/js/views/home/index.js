@@ -180,7 +180,7 @@
                         $("#Name").val(result.name);
                         $("#Name").val(result.name);
                         $("#Description").val(result.description);
-                        $("#Amount").val(result.amount);
+                        $("#Amount").val("S/. " + result.amount.toFixed(2));
                         $("#Category").val(result.category.name);
                         $("#detail-modal").modal("show");
                     })
