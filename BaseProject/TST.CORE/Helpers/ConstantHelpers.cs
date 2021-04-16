@@ -31,12 +31,66 @@ namespace TST.CORE.Helpers
                         { UNSPECIFIED, "Sin Especificar" },
                     };
                 }
+            }
+            public static class MUSICALGENRE
+            {
+                public static class STATUS
+                {
+                    public const int ENABLE = 1;
+                    public const int INABLE = 2;
 
+                    public static Dictionary<int, string> VALUES = new Dictionary<int, string>()
+                    {
+                        { ENABLE, "Habilitado" },
+                        { INABLE, "Inhabilitado" }
+                    };
+                }
+
+            }
+        }
+
+        public static class ENTITY_ENTRIES
+        {
+            public static class PROPERTY_NAME
+            {
+                public const string CODE_NUMBER = "CodeNumber";
+                public const string CODE_TEXT = "CodeText";
+                public const string CREATED_AT = "CreatedAt";
+                public const string DELETED_AT = "DeletedAt";
+                public const string UPDATED_AT = "UpdatedAt";
+
+                public const string CREATED_BY = "CreatedBy";
+                public const string DELETED_BY = "DeletedBy";
+                public const string UPDATED_BY = "UpdatedBy";
+            }
+        }
+
+        public static class DATABASES
+        {
+            public static class VERSIONS
+            {
+                public static class MYSQL
+                {
+                    public const int VNULL = 0;
+                    public const int V5717 = 1;
+                    public const int V5723 = 2;
+                    public const int V5726 = 3;
+                    public const int V8021 = 4;
+
+                    public static Dictionary<int, Version> VALUES = new Dictionary<int, Version>()
+                    {
+                        { VNULL, null },
+                        { V5717, new Version(5, 7, 17) },
+                        { V5723, new Version(5, 7, 23) },
+                        { V5726, new Version(5, 7, 26) },
+                        { V8021, new Version(8, 0, 21) },
+                    };
+                }
             }
         }
         public static class CONFIGURATION
         {
-           
+
         }
         public static class ROLES
         {

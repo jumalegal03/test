@@ -10,3 +10,15 @@ C:\Users\Junior\source\repos\BaseProject\TST.ENTITIES\obj\Debug\netcoreapp3.1\TS
 C:\Users\Junior\source\repos\BaseProject\TST.ENTITIES\obj\Debug\netcoreapp3.1\TST.ENTITIES.csproj.CopyComplete
 C:\Users\Junior\source\repos\BaseProject\TST.ENTITIES\obj\Debug\netcoreapp3.1\TST.ENTITIES.dll
 C:\Users\Junior\source\repos\BaseProject\TST.ENTITIES\obj\Debug\netcoreapp3.1\TST.ENTITIES.pdb
+C:\Users\Junior\Documents\test\BaseProject\TST.ENTITIES\bin\Debug\netcoreapp3.1\TST.ENTITIES.deps.json
+C:\Users\Junior\Documents\test\BaseProject\TST.ENTITIES\bin\Debug\netcoreapp3.1\TST.ENTITIES.dll
+C:\Users\Junior\Documents\test\BaseProject\TST.ENTITIES\bin\Debug\netcoreapp3.1\TST.ENTITIES.pdb
+C:\Users\Junior\Documents\test\BaseProject\TST.ENTITIES\bin\Debug\netcoreapp3.1\TST.CORE.dll
+C:\Users\Junior\Documents\test\BaseProject\TST.ENTITIES\bin\Debug\netcoreapp3.1\TST.CORE.pdb
+C:\Users\Junior\Documents\test\BaseProject\TST.ENTITIES\obj\Debug\netcoreapp3.1\TST.ENTITIES.csprojAssemblyReference.cache
+C:\Users\Junior\Documents\test\BaseProject\TST.ENTITIES\obj\Debug\netcoreapp3.1\TST.ENTITIES.AssemblyInfoInputs.cache
+C:\Users\Junior\Documents\test\BaseProject\TST.ENTITIES\obj\Debug\netcoreapp3.1\TST.ENTITIES.AssemblyInfo.cs
+C:\Users\Junior\Documents\test\BaseProject\TST.ENTITIES\obj\Debug\netcoreapp3.1\TST.ENTITIES.csproj.CoreCompileInputs.cache
+C:\Users\Junior\Documents\test\BaseProject\TST.ENTITIES\obj\Debug\netcoreapp3.1\TST.ENTITIES.csproj.CopyComplete
+C:\Users\Junior\Documents\test\BaseProject\TST.ENTITIES\obj\Debug\netcoreapp3.1\TST.ENTITIES.dll
+C:\Users\Junior\Documents\test\BaseProject\TST.ENTITIES\obj\Debug\netcoreapp3.1\TST.ENTITIES.pdb

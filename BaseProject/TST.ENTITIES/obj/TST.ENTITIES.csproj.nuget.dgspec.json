@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Junior\\source\\repos\\BaseProject\\TST.ENTITIES\\TST.ENTITIES.csproj": {}
+    "C:\\Users\\Junior\\Documents\\test\\BaseProject\\TST.ENTITIES\\TST.ENTITIES.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Junior\\source\\repos\\BaseProject\\TST.CORE\\TST.CORE.csproj": {
+    "C:\\Users\\Junior\\Documents\\test\\BaseProject\\TST.CORE\\TST.CORE.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Junior\\source\\repos\\BaseProject\\TST.CORE\\TST.CORE.csproj",
+        "projectUniqueName": "C:\\Users\\Junior\\Documents\\test\\BaseProject\\TST.CORE\\TST.CORE.csproj",
         "projectName": "TST.CORE",
-        "projectPath": "C:\\Users\\Junior\\source\\repos\\BaseProject\\TST.CORE\\TST.CORE.csproj",
+        "projectPath": "C:\\Users\\Junior\\Documents\\test\\BaseProject\\TST.CORE\\TST.CORE.csproj",
         "packagesPath": "C:\\Users\\Junior\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Junior\\source\\repos\\BaseProject\\TST.CORE\\obj\\",
+        "outputPath": "C:\\Users\\Junior\\Documents\\test\\BaseProject\\TST.CORE\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Junior\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -57,6 +57,10 @@
             "Microsoft.AspNetCore.Razor": {
               "target": "Package",
               "version": "[2.2.0, )"
+            },
+            "Pomelo.EntityFrameworkCore.MySql": {
+              "target": "Package",
+              "version": "[3.2.3, )"
             }
           },
           "imports": [
@@ -78,14 +82,14 @@
         }
       }
     },
-    "C:\\Users\\Junior\\source\\repos\\BaseProject\\TST.ENTITIES\\TST.ENTITIES.csproj": {
+    "C:\\Users\\Junior\\Documents\\test\\BaseProject\\TST.ENTITIES\\TST.ENTITIES.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Junior\\source\\repos\\BaseProject\\TST.ENTITIES\\TST.ENTITIES.csproj",
+        "projectUniqueName": "C:\\Users\\Junior\\Documents\\test\\BaseProject\\TST.ENTITIES\\TST.ENTITIES.csproj",
         "projectName": "TST.ENTITIES",
-        "projectPath": "C:\\Users\\Junior\\source\\repos\\BaseProject\\TST.ENTITIES\\TST.ENTITIES.csproj",
+        "projectPath": "C:\\Users\\Junior\\Documents\\test\\BaseProject\\TST.ENTITIES\\TST.ENTITIES.csproj",
         "packagesPath": "C:\\Users\\Junior\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Junior\\source\\repos\\BaseProject\\TST.ENTITIES\\obj\\",
+        "outputPath": "C:\\Users\\Junior\\Documents\\test\\BaseProject\\TST.ENTITIES\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Junior\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -101,8 +105,8 @@
         "frameworks": {
           "netcoreapp3.1": {
             "projectReferences": {
-              "C:\\Users\\Junior\\source\\repos\\BaseProject\\TST.CORE\\TST.CORE.csproj": {
-                "projectPath": "C:\\Users\\Junior\\source\\repos\\BaseProject\\TST.CORE\\TST.CORE.csproj"
+              "C:\\Users\\Junior\\Documents\\test\\BaseProject\\TST.CORE\\TST.CORE.csproj": {
+                "projectPath": "C:\\Users\\Junior\\Documents\\test\\BaseProject\\TST.CORE\\TST.CORE.csproj"
               }
             }
           }
